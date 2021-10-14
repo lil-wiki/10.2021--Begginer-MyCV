@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+h1 {
+  margin:0 auto 0 auto;
+  font-size: 562%;
+  font-family: 'Roboto', sans-serif;
+    color: #BB371A;
+
+
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5rem;
+  color:#BB371A;
+  font-weight: normal;
+  line-height: 2;
+
+
+}
+
+h3{
+  font-family: 'Roboto', sans-serif;
+  color: #FFF8D9;
+}
+
+.avatar {
+  border-radius: 50%;
+  height: auto;
+   width: auto;
+   max-width: 300px;
+   max-height: 300px;
+   border-radius: 50%;
+   position: relative;
+   margin-top: 50px;
+}
+.btn {
+  color:#EBA83A;
+}
+.top-container{
+  background-color: #EBA83A;
+  position: relative;
+  padding-top: 200px;
+}
+
+.middle-container{
+  background-color: #BB371A;
+  position: relative;
+}
+
+.bottom-container{
+  background-color: #FFF8D9;
+  position: relative;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.redbutton {
+   background: #F63D3D;
+   background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+   background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+   background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+   background-image: -o-linear-gradient(top, #F63D3D, #811616);
+   background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 14px;
+   line-height: 14px;
+   color: #FFAE00;
+   font-family: Open Sans;
+   width: 185px;
+   font-size: 20px;
+   font-weight: 900;
+   padding: 12px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 50px;
+}
+
+
+.footer-link {
+    color: #BB371A;
+}
+
+.leaves {
+  height: auto;
+   width: auto;
+   max-width: 300px;
+   max-height: 300px;
+   border-radius: 50%;
+   float: left;
+   margin-right: 30px;
+}
+
+.photo{
+  height: auto;
+   width: auto;
+   max-width: 300px;
+   max-height: 300px;
+   border-radius: 50%;
+   float: right;
+   position: relative;
+   margin-left: 30px;
+   display: block;
+   margin-top: 50px;
+}
+
+.skills {
+  text-align: left;
+line-height: 2;
+}
+
+.skill-row {
+  width: 50%;
+  position: relative;
+  margin: 100px auto 100px auto;
+}
+
+.skills1{
+  font-family: 'Roboto', sans-serif;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.textphoto {
+  margin-top: 100px;
+padding-top: 50px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.text {
+  margin-left: 30px;
+}
